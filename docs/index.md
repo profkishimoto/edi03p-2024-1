@@ -8,11 +8,11 @@
 > **FCI** – Faculdade de Computação e Informática<br>
 > **Ciência da Computação**<br>
 > Disciplina: **Estrutura de Dados I** (3ª etapa)<br>
-> Professores: **André Kishimoto** (teoria 03P) e **Joaquim Pessoa Filho** (laboratório 03P11)
+> Professores: **André Kishimoto** (teoria) e **Joaquim Pessoa Filho** (laboratório)
 
 > **1º semestre 2024**<br>
 > **terça-feira**, **19:20** às **21:00** (2hs/aula) - 03P (**prédio 31 - sala 203**)<br>
-> **quarta-feira**, **19:20** às **21:00** (2hs/aula)- 03P11 (**prédio 31 - sala 404**)
+> **quarta-feira**, **19:20** às **21:00** (2hs/aula) - 03P11 (**prédio 31 - sala 404**)
 
 ### Calendário Escolar
 
