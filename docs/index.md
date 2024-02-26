@@ -14,6 +14,14 @@
 > **terça-feira**, **19:20** às **21:00** (2hs/aula) - 03P (**prédio 31 - sala 203**)<br>
 > **quarta-feira**, **19:20** às **21:00** (2hs/aula)- 03P11 (**prédio 31 - sala 404**)
 
+### Calendário Escolar
+
+**Calendário Escolar**, **Regulamento Acadêmico** e outras informações: <a href="https://www.mackenzie.br/universidade/processos-academicos-para-coordenadoria-geral-de-relacionamento-e-atendimento/informacoes-ao-aluno/calendario-escolar" target="_blank">CLIQUE AQUI</a>
+
+### Plano de ensino
+
+**Plano de ensino** disponível no link a seguir:
+[Plano de ensino (pdf)](conteudo/plano-de-ensino/CC_3P_Plano_de_ensino_EstruturadeDadosI_2024_1.pdf)
 
 ### Como entrar em contato com o professor?
 
@@ -21,18 +29,9 @@
 - **E-mail**: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.br</a>
 
 
-### Calendário Escolar
-
-**Calendário Escolar**, **Regulamento Acadêmico** e outras informações: <a href="https://www.mackenzie.br/universidade/processos-academicos-para-coordenadoria-geral-de-relacionamento-e-atendimento/informacoes-ao-aluno/calendario-escolar" target="_blank">CLIQUE AQUI</a>
-
-
-### Plano de ensino
-
-**Plano de ensino** disponível no link a seguir:
-[Plano de ensino (pdf)](conteudo/plano-de-ensino/CC_3P_Plano_de_ensino_EstruturadeDadosI_2024_1.pdf)
-
-
 ## EXERCÍCIOS E AVALIAÇÕES
+
+**Atenção!** As entregas das atividades devem ser realizadas pelo Moodle!
 
 
 ## ÍNDICE DE AULAS
