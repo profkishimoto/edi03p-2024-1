@@ -38,6 +38,7 @@
 
 - [Semana 1: Apresentação da disciplina e introdução Java](#semana-1-2002)
 - [Semana 2: Tipos de dados](#semana-2-2702)
+- [Semana 3: TAD Pilha sequencial/estática](#semana-3-0503)
 
 
 ## Semana 1 (20/02)
@@ -87,3 +88,23 @@
 - HORSTMANN, C. S.; CORNELL, G. **Core Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=pearson" target="_blank">Biblioteca Virtual Universitária 3.0</a>.
   - Capítulo 3 (Estruturas de programação fundamentais no Java)
   - Capítulo 4 (Objetos e classes)
+
+
+## Semana 3 (05/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- TAD Pilha sequencial/estática.
+
+### Arquivos
+
+- [Mini-zine sobre pilha (stack) (pdf)](conteudo/semana-3/minizine_pilha_ak.pdf)
+
+### Referências e recursos
+
+- GOODRICH, M. T.; TAMASSIA, R. **Estruturas de dados e algoritmos em Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 5, seção 5.1 (Pilhas)
+- CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 15, seção 15.1 (Pilhas)
