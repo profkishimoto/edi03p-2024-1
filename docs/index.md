@@ -38,7 +38,8 @@
 
 - [Semana 1: Apresentação da disciplina e introdução Java](#semana-1-2002)
 - [Semana 2: Tipos de dados](#semana-2-2702)
-- [Semana 3: TAD Pilha sequencial/estática](#semana-3-0503)
+- [Semana 3: Tipos de dados (cont.)](#semana-3-0503)
+- [Semana 4: TAD Pilha sequencial/estática](#semana-4-1203)
 
 
 ## Semana 1 (20/02)
@@ -91,6 +92,27 @@
 
 
 ## Semana 3 (05/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Conceituar tipos de dados (primitivos, estruturados e abstratos).
+
+### Arquivos
+
+- [Tipos de Dados (pdf)](conteudo/semana-2/TiposDeDados.pdf)
+
+### Referências e recursos
+
+- GOODRICH, M. T.; TAMASSIA, R. **Estruturas de dados e algoritmos em Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 1 (Cartilha de Java)
+- HORSTMANN, C. S.; CORNELL, G. **Core Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=pearson" target="_blank">Biblioteca Virtual Universitária 3.0</a>.
+  - Capítulo 3 (Estruturas de programação fundamentais no Java)
+  - Capítulo 4 (Objetos e classes)
+
+
+## Semana 4 (12/03)
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
