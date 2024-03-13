@@ -122,7 +122,7 @@
 
 ### Arquivos
 
-- [Mini-zine sobre pilha (stack) (pdf)](conteudo/semana-3/minizine_pilha_ak.pdf)
+- [Mini-zine sobre pilha (stack) (pdf)](conteudo/semana-4/minizine_pilha_ak.pdf)
 
 ### Referências e recursos
 
