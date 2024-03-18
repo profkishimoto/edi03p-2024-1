@@ -36,13 +36,14 @@
 
 ## ÍNDICE DE AULAS
 
-- [Semana 1: Apresentação da disciplina e introdução Java](#semana-1-2002)
-- [Semana 2: Tipos de dados](#semana-2-2702)
-- [Semana 3: Tipos de dados (cont.)](#semana-3-0503)
-- [Semana 4: TAD Pilha sequencial/estática](#semana-4-1203)
+- [Semana 1: Apresentação da disciplina e introdução Java](#-semana-1-2002-)
+- [Semana 2: Tipos de dados](#-semana-2-2702-)
+- [Semana 3: Tipos de dados (cont.)](#-semana-3-0503-)
+- [Semana 4: TAD Pilha sequencial/estática](#-semana-4-1203-)
+- [Semana 5: TAD Fila sequencial/estática](#-semana-5-1903-)
 
 
-## Semana 1 (20/02)
+## ■■■■■ Semana 1 (20/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -70,7 +71,7 @@
 - KISHIMOTO, A. **Configuração da máquina para desenvolvimento Java**. Disponível [aqui](conteudo/semana-1/EDI%20-%20Configuração%20da%20máquina%20para%20desenvolvimento%20Java%20-%20v1.2.pdf).
 
 
-## Semana 2 (27/02)
+## ■■■■■ Semana 2 (27/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -91,7 +92,7 @@
   - Capítulo 4 (Objetos e classes)
 
 
-## Semana 3 (05/03)
+## ■■■■■ Semana 3 (05/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -112,7 +113,7 @@
   - Capítulo 4 (Objetos e classes)
 
 
-## Semana 4 (12/03)
+## ■■■■■ Semana 4 (12/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -130,3 +131,23 @@
   - Capítulo 5, seção 5.1 (Pilhas)
 - CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
   - Capítulo 15, seção 15.1 (Pilhas)
+
+
+## ■■■■■ Semana 5 (19/03) ■■■■■
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- TAD Fila sequencial/estática.
+
+### Arquivos
+
+- [Mini-zine sobre fila (queue) (pdf)](conteudo/semana-5/minizine_fila_ak.pdf)
+
+### Referências e recursos
+
+- GOODRICH, M. T.; TAMASSIA, R. **Estruturas de dados e algoritmos em Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 5, seção 5.2 (Filas)
+- CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 15, seção 15.2 (Filas)
