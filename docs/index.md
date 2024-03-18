@@ -29,6 +29,16 @@
 - **E-mail**: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.br</a>
 
 
+## DATAS IMPORTANTES
+
+**Observação**: Datas planejadas e sujeitas a alterações.
+
+- **P1**: 09/04/2024
+- **P2**: 28/05/2024
+- **SUB**: 04/06/2024
+- **PF**: 11/06/2024
+
+
 ## EXERCÍCIOS E AVALIAÇÕES
 
 **Atenção!** As entregas das atividades devem ser realizadas pelo Moodle!
