@@ -52,6 +52,8 @@
 - [Semana 4: TAD Pilha sequencial/estática](#-semana-4-1203-)
 - [Semana 5: TAD Fila sequencial/estática](#-semana-5-1903-)
 - [Semana 6: TAD Fila dupla sequencial/estática](#-semana-6-2603-)
+- [Semana 7: WTT 2024](#-semana-7-0204-)
+- [Semana 8: **Prova P1**](#-semana-8-0904-)
 
 
 ## ■■■■■ Semana 1 (20/02) ■■■■■
@@ -183,4 +185,22 @@
   - Capítulo 5, seção 5.3 (Filas com dois finais)
 - CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
   - Capítulo 15, seção 15.3 (Fila dupla)
+
+
+## ■■■■■ Semana 7 (02/04) ■■■■■
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- WTT 2024 - Workshop de Tendências Tecnológicas (não haverá aula da disciplina).
+
+
+## ■■■■■ Semana 8 (09/04) ■■■■■
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Prova P1 (presencial e em horário de aula).
 
